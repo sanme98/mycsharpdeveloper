@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mycsharpdeveloper/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/mycsharpdeveloper/static/js/main.b3e311dc.chunk.js",
+    "main.js.map": "/mycsharpdeveloper/static/js/main.b3e311dc.chunk.js.map",
+    "runtime-main.js": "/mycsharpdeveloper/static/js/runtime-main.2f67e585.js",
+    "runtime-main.js.map": "/mycsharpdeveloper/static/js/runtime-main.2f67e585.js.map",
+    "static/js/2.5d86e6ae.chunk.js": "/mycsharpdeveloper/static/js/2.5d86e6ae.chunk.js",
+    "static/js/2.5d86e6ae.chunk.js.map": "/mycsharpdeveloper/static/js/2.5d86e6ae.chunk.js.map",
+    "static/js/3.abc9f1e8.chunk.js": "/mycsharpdeveloper/static/js/3.abc9f1e8.chunk.js",
+    "static/js/3.abc9f1e8.chunk.js.map": "/mycsharpdeveloper/static/js/3.abc9f1e8.chunk.js.map",
+    "index.html": "/mycsharpdeveloper/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/mycsharpdeveloper/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5d86e6ae.chunk.js.LICENSE.txt": "/mycsharpdeveloper/static/js/2.5d86e6ae.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mycsharpdeveloper/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f67e585.js",
+    "static/js/2.5d86e6ae.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b3e311dc.chunk.js"
+  ]
+}
